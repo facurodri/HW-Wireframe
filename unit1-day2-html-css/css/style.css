@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+header {
+    background:#333333;
+    padding:20px;
+    margin-bottom:20px;
+    color:#eee;
+    font-size: 28px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.container { 
+    background:#efeee7; 
+    width: 1024px;
+    margin: 0 auto;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #efeee7
+    }
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#main-bio {
+    width:70%;
+    float:left;
+}
+
+#contact-info {
+    width:30%;
+    float:left;
+    padding-left: 40px;
+}
+
+#bio-name {
+    width:100%;
+    float: left;
+    margin-left: 40;   
+}
+.img-bio{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right:25px;
+}
+#bio-image {
+    margin-left: 40; 
+}
+
+a {
+    color:#d21034;
+}
+
+h2 {
+    font-size:24px;
+}
+
+
+
+
